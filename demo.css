@@ -2,7 +2,8 @@
   box-sizing: content-box;
 }
 .image{
-    width:50%;
+    width:100%;
+    height:auto;
     border-radius: 1px;
     border-width: 2px;
     border-style: solid ;
