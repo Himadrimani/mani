@@ -2,12 +2,12 @@
   box-sizing: content-box;
 }
 .image{
-    width:30%;
-    height:auto;
-    border-radius: 1px;
-    border-width: 2px;
-    border-style: solid ;
-    border-color: rgb(23, 23, 23);
+  width:75%;
+  height:auto;
+  border-radius: 1px;
+  border-width: 2px;
+  border-style: solid ;
+  border-color: rgb(23, 23, 23);
     }
 .bo{
       color: cornflowerblue;
@@ -38,8 +38,10 @@
   -webkit-text-fill-color: transparent;
   animation: textclip 2s linear infinite;
   display: inline-block;
-      font-size: 30px;
-      margin-left: 35%;
+      font-size: 180%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
       justify-content: center;
 }
 
