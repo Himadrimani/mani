@@ -1,13 +1,11 @@
 .image_container{
   box-sizing: content-box;
 }
-.image{
-    max-width: 450px;
-    border-radius: 1px;
-    border-width: 2px;
-    border-style: solid ;
-    border-color: rgb(23, 23, 23);
-    }
+.responsive{
+  width: 100%;
+  height: auto;
+  
+}
 .bo{
       color: cornflowerblue;
       -webkit-text-stroke-width: .4px;
