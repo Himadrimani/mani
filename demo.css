@@ -40,8 +40,6 @@
   display: inline-block;
       font-size: 180%;
       display: block;
-      margin-left: auto;
-      margin-right: auto;
       justify-content: center;
 }
 
