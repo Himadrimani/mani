@@ -10,6 +10,7 @@
   border-color: rgb(23, 23, 23);
     }
 .bo{
+     font-size:x-large;
       color: cornflowerblue;
       -webkit-text-stroke-width: .4px;
     -webkit-text-stroke-color: black;
@@ -39,7 +40,7 @@
   -webkit-text-fill-color: transparent;
   animation: textclip 2s linear infinite;
   display: inline-block;
-     font-size: 160%;
+      font-size: xx-large;
       padding: 7px;
       margin-left:0%;
       display: block;
